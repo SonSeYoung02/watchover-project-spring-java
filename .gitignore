@@ -2,6 +2,7 @@
 .gradle/
 .idea/
 .omc/
+.omx/
 AGENTS.md
 
 # 환경변수

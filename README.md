@@ -95,9 +95,6 @@ WatchOver는 사용자가 AI 상담 챗봇과 대화하며 하루의 감정을 �
 | --- | --- |
 | 이미지 추가 예정 | 이미지 추가 예정 |
 
-## 🎬 시연 영상
-https://www.sku-graduation.p-e.kr/2026/project/c096aca5-97f5-4315-a061-f7b2c654c8f8
-
 ---
 
 ## ✨ 주요 기능

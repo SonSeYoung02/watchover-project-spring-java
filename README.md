@@ -83,17 +83,53 @@ WatchOver는 사용자가 AI 상담 챗봇과 대화하며 하루의 감정을 �
 
 ## 화면 구성
 
-| Splash / Login | Home |
-| --- | --- |
-| 이미지 추가 예정 | 이미지 추가 예정 |
+### Splash Page
+<p align="center">
+  <img src="./docs/images/스플래쉬_1.png" width="180" alt="스플래쉬 화면">
+</p>
 
-| AI Chat | Calendar |
-| --- | --- |
-| 이미지 추가 예정 | 이미지 추가 예정 |
+### Login Page
+<p align="center">
+  <img src="./docs/images/로그인화면.png" width="180" alt="로그인 화면">
+  <img src="./docs/images/회원가입화면.png" width="180" alt="회원가입 화면">
+<p>
 
-| Community | Character / My Page |
-| --- | --- |
-| 이미지 추가 예정 | 이미지 추가 예정 |
+### HomePage
+<p align="center">
+  <img src="./docs/images/메인화면_1.png" width="180" alt="메인 화면">
+<p>
+
+### ChatBot Page
+<p align="center">
+  <img src="./docs/images/AI채팅화면.png" width="180" alt="AI 채팅 화면">
+  <img src="./docs/images/AI채팅화면_대화기록.png" width="180" alt="AI 채팅 대화 기록 화면">
+  
+</p>
+
+### Calendar Page
+<p align="center">
+  <img src="./docs/images/달력_1.png" width="180" alt="달력 화면 1">
+  <img src="./docs/images/달력_2.png" width="180" alt="달력 화면 2">
+  <img src="./docs/images/달력_3.png" width="180" alt="달력 화면 3">
+<p>
+
+### Community
+<p align="center">
+  <img src="./docs/images/커뮤니티_전체글.png" width="180" alt="커뮤니티 전체글 화면">
+  <img src="./docs/images/커뮤니티_나의활동.png"
+  width="180" alt="커뮤니티 나의 활동"> 
+</p>
+
+### Character
+<p align="center">
+  <img src="./docs/images/캐릭터생성_1.png" width="180" alt="캐릭터 생성 화면">
+<p>
+
+### MyPage
+<p align="center">
+  <img src="./docs/images/내정보.png"
+  width="180" alt="내정보 설정 화면">
+<p>
 
 ---
 

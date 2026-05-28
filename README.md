@@ -85,34 +85,15 @@ WatchOver는 사용자가 AI 상담 챗봇과 대화하며 하루의 감정을 �
 
 | Splash / Login | Home |
 | --- | --- |
-| <img width="1080" height="2400" alt="회원가입화면" src="https://github.com/user-attachments/assets/6c96a42b-caf1-4426-a02b-5af4684f4490" />
-<img width="1080" height="2400" alt="로그인화면" src="https://github.com/user-attachments/assets/54a67bee-d94e-48ea-bd99-4add9d1744a5" />
-<img width="1080" height="2400" alt="스플래쉬_1" src="https://github.com/user-attachments/assets/cc0f1ccf-1464-4f36-9d58-e41d9ca65607" />
- | 이미지 추가 예정<img width="1080" height="2400" alt="메인화면" src="https://github.com/user-attachments/assets/97ca32af-57cc-4dd4-afd0-fdd468ac7dd0" />
- |
+| 이미지 추가 예정 | 이미지 추가 예정 |
 
 | AI Chat | Calendar |
 | --- | --- |
-| <img width="1080" height="2400" alt="AI채팅화면_대화기록" src="https://github.com/user-attachments/assets/27f375c5-5bf4-4618-b54a-6be2a4c11be9" />
-<img width="1080" height="2400" alt="AI채팅화면_종료_감정기록" src="https://github.com/user-attachments/assets/7f3cbbe4-bfb3-409e-a4b2-24569ad4cb8c" />
-<img width="1080" height="2400" alt="AI채팅화면_종료" src="https://github.com/user-attachments/assets/89bfcdd6-2dc6-47b9-ab8e-393b7456a620" />
-<img width="1080" height="2400" alt="AI채팅화면" src="https://github.com/user-attachments/assets/ba705dcc-1f0a-4da5-b56b-fff922039488" />
-
- | <img width="1080" height="2400" alt="달력_3" src="https://github.com/user-attachments/assets/23594f09-f96b-4ee2-9be1-ec4df4d54afd" />
-<img width="1080" height="2400" alt="달력_2" src="https://github.com/user-attachments/assets/c382d37f-04b9-48e6-a2b6-8274ddcf2685" />
-<img width="1080" height="2400" alt="달력_1" src="https://github.com/user-attachments/assets/2fd93090-5250-4864-962a-9c06b977c70c" />
- |
+| 이미지 추가 예정 | 이미지 추가 예정 |
 
 | Community | Character / My Page |
 | --- | --- |
-| <img width="1080" height="2400" alt="커뮤니티_나의활동" src="https://github.com/user-attachments/assets/64d4116f-6b5c-4678-95e4-53cf5d1a502f" />
-<img width="1080" height="2400" alt="커뮤니티_북마크" src="https://github.com/user-attachments/assets/f98ba6e9-842b-4ad4-a0dc-ce00dd8885d0" />
-<img width="1080" height="2400" alt="커뮤니티_인기글" src="https://github.com/user-attachments/assets/c6387941-667c-4800-9b67-7e78380a1cd3" />
-<img width="1080" height="2400" alt="커뮤니티_전체글" src="https://github.com/user-attachments/assets/0f24fa68-65cd-45a1-88c4-259c36dd7fa6" /> | <img width="1080" height="2400" alt="내정보" src="https://github.com/user-attachments/assets/0254e0bd-5e12-4524-9471-37147ebf36a1" />
-<img width="1080" height="2400" alt="캐릭터생성_3" src="https://github.com/user-attachments/assets/546f0aa1-2365-4c76-a561-093a31f3741c" />
-<img width="1080" height="2400" alt="캐릭터생성_2" src="https://github.com/user-attachments/assets/0917d685-cf4c-4386-832d-de907fbf8a6c" />
-<img width="1080" height="2400" alt="캐릭터생성_1" src="https://github.com/user-attachments/assets/0c1395b2-fbfb-4b1f-a2b9-a26da25a5479" />
- |
+| 이미지 추가 예정 | 이미지 추가 예정 |
 
 ---
 
